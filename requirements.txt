@@ -1,0 +1,6 @@
+langchain
+chromadb
+boto3
+pypdf
+python-telegram-bot
+watchtower
