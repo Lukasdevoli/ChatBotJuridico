@@ -1,6 +1,11 @@
-langchain
-chromadb
-boto3
-pypdf
 python-telegram-bot
+python-dotenv
+langchain
+boto3
+chromadb
+langchain-aws
+tiktoken
+tiktoken
+pypdf  
 watchtower
+langchain-community
